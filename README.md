@@ -1,6 +1,6 @@
 
 ## Player Identification in Different Sports 
-[Presentation](https://drive.google.com/file/d/1xrPXhWb_EVHYKEAvV_HmAlAKWykoXdk8/view) | [Video](https://youtu.be/SyoN0b757mg)
+[Paper](https://drive.google.com/file/d/1NrdE5ox4NRq6dehhpX5jZGXz7_XV7H-a/view?usp=sharing) | [Presentation](https://drive.google.com/file/d/1xrPXhWb_EVHYKEAvV_HmAlAKWykoXdk8/view) | [Video](https://youtu.be/SyoN0b757mg)
 
 In this paper, we present a deep learning-based framework
 to identify the sports player through jersey number. Our framework has three main parts. Firstly, it
