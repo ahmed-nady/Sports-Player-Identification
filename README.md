@@ -1,10 +1,10 @@
 
-Player Identification in Different Sports 
-------------------------------------------
+## Player Identification in Different Sports 
+[Presentation](https://drive.google.com/file/d/1xrPXhWb_EVHYKEAvV_HmAlAKWykoXdk8/view) | [Video](https://youtu.be/SyoN0b757mg)
 
 In this paper, we present a deep learning-based framework
 to identify the sports player through jersey number. Our framework has three main parts. Firstly, it
-detects players on the court using state of the art object detector YOLO V4. Secondly, each jersey number
+detects players on the court using state of the art object detector YOLOv4. Secondly, each jersey number
 per detected player bounding boxes is localized. Then a four-stage scene text recognition is employed for
 recognizing detected number regions. A benchmark dataset consists of three subsets is collected. Two subsets
 include player images from different fields in basketball sport and the third includes player images from ice
